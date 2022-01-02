@@ -2,10 +2,10 @@ package PROJECTS;
 
 public class PROJECT1 {
     public static void main(String[] args) {
-        /*
-         1. Números
-         1.1. Enteros
-        */
+    
+        //1. Números
+        //1.1. Enteros
+        
         byte number1 = 1;
         short number2 = 2;
         int number3 = 3;
